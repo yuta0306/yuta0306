@@ -12,6 +12,8 @@
 
 [![SRAugmentation](https://github-readme-stats.vercel.app/api/pin/?username=yuta0306&repo=SRAugmentation&theme=nightowl)](https://github.com/yuta0306/SRAugmentation)
 
+[![yuta0306.github.io](https://github-readme-stats.vercel.app/api/pin/?username=yuta0306&repo=yuta0306.github.io&theme=nightowl)](https://github.com/yuta0306/yuta0306.github.io)
+
 <!--
 **yuta0306/yuta0306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
