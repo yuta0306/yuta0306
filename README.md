@@ -1,4 +1,6 @@
-### Hi there, I'm yuta0306 👋
+# Hi there, I'm yuta0306 👋
+
+## GitHub Status
 
 <!-- status -->
 [![yuta0306's Github Stats](https://github-readme-stats.vercel.app/api?username=yuta0306&hide=contribs&count_private=true&show_icons=true&theme=nightowl)](https://github.com/yuta0306/)
@@ -6,7 +8,7 @@
 <!-- top languages -->
 [![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuta0306&layout=compact&theme=nightowl&hide=c#)](https://github.com/yuta0306/)
 
-#### Popular
+## Popular Repository
 
 [![SRAugmentation](https://github-readme-stats.vercel.app/api/pin/?username=yuta0306&repo=SRAugmentation&theme=nightowl)](https://github.com/yuta0306/SRAugmentation)
 
