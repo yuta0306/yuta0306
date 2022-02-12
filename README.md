@@ -4,7 +4,7 @@
 [![yuta0306's Github Stats](https://github-readme-stats.vercel.app/api?username=yuta0306&hide=contribs&count_private=true&show_icons=true&theme=nightowl)](https://github.com/yuta0306/)
 
 <!-- top languages -->
-[![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuta0306&layout=compact&hide=c#&theme=nightowl)](https://github.com/yuta0306/)
+[![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuta0306&layout=compact&theme=nightowl&hide=c#)](https://github.com/yuta0306/)
 
 #### Popular
 
