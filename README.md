@@ -1,10 +1,14 @@
 ### Hi there, I'm yuta0306 👋
 
 <!-- status -->
-[![yuta0306's Github Stats](https://github-readme-stats.vercel.app/api?username=yuta0306&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/yuta0306/)
+[![yuta0306's Github Stats](https://github-readme-stats.vercel.app/api?username=yuta0306&hide=contribs&count_private=true&show_icons=true&theme=nightowl)](https://github.com/yuta0306/)
 
 <!-- top languages -->
-[![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuta0306&theme=tokyonight)](https://github.com/yuta0306/)
+[![Top Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yuta0306&layout=compact&hide=c#&theme=nightowl)](https://github.com/yuta0306/)
+
+#### Popular
+
+[![SRAugmentation](https://github-readme-stats.vercel.app/api/pin/?username=yuta0306&repo=SRAugmentation&theme=nightowl)](https://github.com/yuta0306/SRAugmentation)
 
 <!--
 **yuta0306/yuta0306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
