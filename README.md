@@ -12,7 +12,11 @@
 
 [![SRAugmentation](https://github-readme-stats.vercel.app/api/pin/?username=yuta0306&repo=SRAugmentation&theme=nightowl)](https://github.com/yuta0306/SRAugmentation)
 
-[![yuta0306.github.io](https://github-readme-stats.vercel.app/api/pin/?username=yuta0306&repo=yuta0306.github.io&theme=nightowl)](https://github.com/yuta0306/yuta0306.github.io)
+[![py-arib-parser](https://github-readme-stats.vercel.app/api/pin/?username=yuta0306&repo=py-arib-parser&theme=nightowl)](https://github.com/yuta0306/py-arib-parser)
+
+[![yt-interactive-downloader](https://github-readme-stats.vercel.app/api/pin/?username=yuta0306&repo=yt-interactive-downloader&theme=nightowl)](https://github.com/yuta0306/yt-interactive-downloader)
+
+[![dslclib](https://github-readme-stats.vercel.app/api/pin/?username=yuta0306&repo=dslclib&theme=nightowl)](https://github.com/yuta0306/dslclib)
 
 <!--
 **yuta0306/yuta0306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
