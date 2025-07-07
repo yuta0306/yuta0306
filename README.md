@@ -5,7 +5,7 @@
 <!-- status -->
 | GitHub Stats | Top Used Languages |
 | :-: | :-: |
-|[![yuta0306's Github Stats](https://github-readme-stats-957qi08vu-yuta-sasakis-projects.vercel.app/api?username=yuta0306&count_private=true&show_icons=true&theme=holi&include_all_commits=true)]([https://github.com/yuta0306/](https://github-readme-stats-957qi08vu-yuta-sasakis-projects.vercel.app/api?username=yuta0306&count_private=true&show_icons=true&theme=holi&include_all_commits=true)) | [![Top Used Languages](https://github-readme-stats-957qi08vu-yuta-sasakis-projects.vercel.app/api/top-langs/?username=yuta0306&theme=holi&layout=donut&langs_count=5&hide=jupyter%20notebook,c%23)]([https://github.com/yuta0306/](https://github-readme-stats-957qi08vu-yuta-sasakis-projects.vercel.app/api/top-langs/?username=yuta0306&theme=holi&layout=donut&langs_count=5&hide=jupyter%20notebook,c%23)) |
+| ![yuta0306's Github Stats](https://github-readme-stats-957qi08vu-yuta-sasakis-projects.vercel.app/api?username=yuta0306&count_private=true&show_icons=true&theme=holi&include_all_commits=true) | ![Top Used Languages](https://github-readme-stats-957qi08vu-yuta-sasakis-projects.vercel.app/api/top-langs/?username=yuta0306&theme=holi&layout=donut&langs_count=5&hide=jupyter%20notebook,c%23) |
 
 ## Popular Repository
 
