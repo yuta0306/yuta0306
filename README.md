@@ -5,17 +5,17 @@
 <!-- status -->
 | GitHub Stats | Top Used Languages |
 | :-: | :-: |
-| ![yuta0306's Github Stats](https://github-readme-stats-957qi08vu-yuta-sasakis-projects.vercel.app/api?username=yuta0306&count_private=true&show_icons=true&theme=holi&include_all_commits=true) | ![Top Used Languages](https://github-readme-stats-957qi08vu-yuta-sasakis-projects.vercel.app/api/top-langs/?username=yuta0306&theme=holi&layout=donut&langs_count=5&hide=jupyter%20notebook,c%23) |
+| ![yuta0306's Github Stats](https://github-readme-stats-yuta-sasakis-projects.vercel.app//api?username=yuta0306&count_private=true&show_icons=true&theme=holi&include_all_commits=true) | ![Top Used Languages](https://github-readme-stats-yuta-sasakis-projects.vercel.app/api/top-langs/?username=yuta0306&theme=holi&layout=donut&langs_count=5&hide=jupyter%20notebook,c%23) |
 
 ## Popular Repository
 
-[![SRAugmentation](https://github-readme-stats-957qi08vu-yuta-sasakis-projects.vercel.app/api/pin/?username=yuta0306&repo=SRAugmentation&theme=holi)](https://github.com/yuta0306/SRAugmentation)
+[![SRAugmentation](https://github-readme-stats-yuta-sasakis-projects.vercel.app/api/pin/?username=yuta0306&repo=SRAugmentation&theme=holi)](https://github.com/yuta0306/SRAugmentation)
 
-[![py-arib-parser](https://github-readme-stats-957qi08vu-yuta-sasakis-projects.vercel.app/api/pin/?username=yuta0306&repo=py-arib-parser&theme=holi)](https://github.com/yuta0306/py-arib-parser)
+[![py-arib-parser](https://github-readme-stats-yuta-sasakis-projects.vercel.app/api/pin/?username=yuta0306&repo=py-arib-parser&theme=holi)](https://github.com/yuta0306/py-arib-parser)
 
-[![yt-interactive-downloader](https://github-readme-stats-957qi08vu-yuta-sasakis-projects.vercel.app/api/pin/?username=yuta0306&repo=yt-interactive-downloader&theme=holi)](https://github.com/yuta0306/yt-interactive-downloader)
+[![yt-interactive-downloader](https://github-readme-stats-yuta-sasakis-projects.vercel.app/api/pin/?username=yuta0306&repo=yt-interactive-downloader&theme=holi)](https://github.com/yuta0306/yt-interactive-downloader)
 
-[![dslclib](https://github-readme-stats-957qi08vu-yuta-sasakis-projects.vercel.app/api/pin/?username=yuta0306&repo=dslclib&theme=holi)](https://github.com/yuta0306/dslclib)
+[![dslclib](https://github-readme-stats-yuta-sasakis-projects.vercel.app/api/pin/?username=yuta0306&repo=dslclib&theme=holi)](https://github.com/yuta0306/dslclib)
 
 <!--
 **yuta0306/yuta0306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
